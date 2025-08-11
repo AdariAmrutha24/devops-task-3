@@ -1,0 +1,5 @@
+# Terraform-specific
+*.tfstate
+.tfstate.
+.terraform.lock.hcl
+.terraform/
